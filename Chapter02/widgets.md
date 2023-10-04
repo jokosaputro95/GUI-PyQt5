@@ -25,4 +25,4 @@ Antarmuka pengguna terdiri dari beberapa widget yang disusun dalam sebuah window
 | QTimeEdit      | For editing times                   |
 
 
-Ada lebih banyak widget dari pada ini, gunakan widget sesuai yang diperlukan saja. Untuk melihat Daftar Lengkap lihat di [dokumentasi Qt](https://doc.qt.io/qt-5/qwidget.html).
+Ada lebih banyak widget dari pada ini, gunakan widget disesuaikan dengan kebutuhan. Untuk melihat Daftar Lengkap lihat di [dokumentasi Qt](https://doc.qt.io/qt-5/qwidget.html).
